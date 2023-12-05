@@ -1,1 +1,1 @@
-# Security Principles: Frameworks, Standards, and Policies
+# Security Principles: Industry Frameworks, Methologies, Laws, and Regulations
